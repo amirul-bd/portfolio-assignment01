@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 80px;
+    line-height: 10px;
+}
+.banner-section{
+    /* background-color: gray; */
+    width: 100%;
+    min-height: 600px;
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.orange-highlight{
+    color: #FF8367;
+}
+.half-section img{
+    width: 80%;
+}
+
+.hire-button{
+    background-color: tomato;
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+}
