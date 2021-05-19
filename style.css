@@ -1,0 +1,139 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    line-height: 10px;
+    color: #363958;
+}
+h2{
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    color: #363958;
+}
+h3{
+    color: #363958;
+}
+p{
+    font-size: 16px;
+    font-weight: 100;
+    color: #6C6C6C;
+}
+.banner-section{
+    background-color: lightgray;
+    height: 640px;
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-margin{
+    margin-top: 120px;
+}
+.orange-highlight{
+    color: #FF8367;
+}
+.half-section img{
+    width: 90%;
+}
+.hire-button{
+    background-color: #FF8063;
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+.about-section{
+    height: 500px;
+}
+.about-section img{
+    margin-top: -110px;
+}
+.about-section h2{
+    padding-top: 50px;
+    text-transform: uppercase;
+}
+
+
+.working-section{
+    height: 700px;
+    background-color: #E5E5E5;
+    
+}
+.working-section h2{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.project-section{
+    width: 29%;
+    float: left;
+    background-color: white;
+    margin-left:20px;
+    border-radius: 15px;
+    border: 0;
+    padding: 10px;
+}
+.project-section img{
+    width: 95%;
+}
+
+.working-zone{
+    padding-left: 5%;
+}
+
+.inquiry-section{}
+.chat-section{
+    background-image: url(images/inquiry.png);
+    background-repeat: no-repeat;
+    width: 950px;
+    margin: 0 auto;
+    height: 300px;
+    margin-top: 100px;
+}
+.chat-section h2{
+    float: left;
+    margin:100px 0 0 75px;
+    text-transform: uppercase;
+    color: white;
+}
+.chat-button{
+    float: right;
+    background-color: #FF8063;
+    height: 60px;
+    width: 134px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    margin:100px 75px 0 0;
+}
+.icon-section{
+    margin: 0 auto;
+    height: 200px;
+    text-align: center;
+}
+.icon-section h3{
+    color: #363958;
+    text-transform: uppercase;
+}
+.icon-section h2{
+    line-height: 10px;
+}
+.social-icons img{
+    width: 50px;
+    padding: 0 10px;
+}
+footer p{
+    text-align: center;
+    color: #8a8888;
+}
