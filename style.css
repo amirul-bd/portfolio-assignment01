@@ -43,9 +43,9 @@ p{
     width: 90%;
 }
 .hire-button{
-    background-color: tomato;
-    height: 50px;
-    width: 150px;
+    background-color: #FF8063;
+    height: 60px;
+    width: 170px;
     border-radius: 10px;
     border: 0;
     color: white;
@@ -92,9 +92,7 @@ p{
     padding-left: 5%;
 }
 
-.inquiry-section{
-    background-color: green;
-}
+.inquiry-section{}
 .chat-section{
     background-image: url(images/inquiry.png);
     background-repeat: no-repeat;
@@ -111,9 +109,9 @@ p{
 }
 .chat-button{
     float: right;
-    background-color: tomato;
-    height: 50px;
-    width: 150px;
+    background-color: #FF8063;
+    height: 60px;
+    width: 134px;
     border-radius: 10px;
     border: 0;
     color: white;
@@ -134,4 +132,8 @@ p{
 .social-icons img{
     width: 50px;
     padding: 0 10px;
+}
+footer p{
+    text-align: center;
+    color: #8a8888;
 }
