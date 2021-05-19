@@ -90,5 +90,48 @@ p{
 
 .working-zone{
     padding-left: 5%;
-    
+}
+
+.inquiry-section{
+    background-color: green;
+}
+.chat-section{
+    background-image: url(images/inquiry.png);
+    background-repeat: no-repeat;
+    width: 950px;
+    margin: 0 auto;
+    height: 300px;
+    margin-top: 100px;
+}
+.chat-section h2{
+    float: left;
+    margin:100px 0 0 75px;
+    text-transform: uppercase;
+    color: white;
+}
+.chat-button{
+    float: right;
+    background-color: tomato;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    margin:100px 75px 0 0;
+}
+.icon-section{
+    margin: 0 auto;
+    height: 200px;
+    text-align: center;
+}
+.icon-section h3{
+    color: #363958;
+    text-transform: uppercase;
+}
+.icon-section h2{
+    line-height: 10px;
+}
+.social-icons img{
+    width: 50px;
+    padding: 0 10px;
 }
