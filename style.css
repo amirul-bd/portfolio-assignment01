@@ -23,6 +23,10 @@ p{
     font-weight: 100;
     color: #6C6C6C;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
 .banner-section{
     height:580px;
 }
@@ -57,17 +61,14 @@ p{
 
 .about-section{
     height: 500px;
-    background-color: #888888;
 }
 .about-section img{
-    margin-top: -110px;
+    margin-top: -10px;
 }
 .about-section h2{
     padding-top: 50px;
     text-transform: uppercase;
 }
-
-
 .working-section{
     height: 700px;
     background-color: #E5E5E5;
@@ -95,7 +96,9 @@ p{
     padding-left: 5%;
 }
 
-.inquiry-section{}
+.inquiry-section{
+    height: 500px;
+}
 .chat-section{
     background-image: url(images/inquiry.png);
     background-repeat: no-repeat;
