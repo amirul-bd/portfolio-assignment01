@@ -24,7 +24,7 @@ p{
     color: #6C6C6C;
 }
 .banner-section{
-    height: 640px;
+    height:580px;
 }
 .half-section{
     width: 40%;
@@ -34,6 +34,9 @@ p{
 }
 .half-margin{
     margin-top: 120px;
+}
+.margin-top{
+    margin-top: 100px;
 }
 .orange-highlight{
     color: #FF8367;
@@ -54,6 +57,7 @@ p{
 
 .about-section{
     height: 500px;
+    background-color: #888888;
 }
 .about-section img{
     margin-top: -110px;
